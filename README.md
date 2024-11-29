@@ -1,3 +1,17 @@
+# CUMBUQUINHA
+problema a ser resolvido: somar contas mensais e retornar a divisão para todos da casa que quiserem/puderem colaborar.
+
+### FEATURES:
+- adiciona participantes
+ - OPCIONAL: pode ser colocado opcionalmente um teto máximo que cada membro pode contribuir.
+- soma as contas mensais
+- divide os valores - se ultrapassar o valor máximo do teto de alguém na divisão de integrantes, o valor restante será dividido aos demais integrantes. Ou seja, o integrante POBRE ficará somente até o seu teto limite - com uma tag POBRE DO GRUPO em seu nome.
+- OPCIONAL: adicionar uma mensagem desmotivacinal para o começo
+- OPCIONAL: adicionar uma mensagem de considerações finais sobre a divisão ou 
+- após terminar será apresentado a mensagem (caso haja), soma de valores, divisões por pessoa e as considereções finais (caso haja)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
